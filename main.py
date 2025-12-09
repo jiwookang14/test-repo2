@@ -4,8 +4,10 @@ second = input("Enter the second number: ")
 num1 = int(first)
 num2 = int(second)
 
-result = num1 + num2
+sum_result = num1 + num2
 sub_result = num1 - num2
-print("Difference:", sub_result)
+mul_result = num1 * num2
 
 print("Sum:", result)
+print("Difference:", sub_result)
+print("Product:", mul_result)
