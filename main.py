@@ -5,5 +5,7 @@ num1 = int(first)
 num2 = int(second)
 
 result = num1 + num2
+sub_result = num1 - num2
+print("Difference:", sub_result)
 
 print("Sum:", result)
